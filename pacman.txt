@@ -1,0 +1,8 @@
+alacritty
+btop
+waybar
+wlogout
+ttf-0xproto-nerd
+wofi
+wf-recorder
+wl-clipboard
