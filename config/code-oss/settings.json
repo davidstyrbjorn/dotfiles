@@ -1,0 +1,20 @@
+{
+    "window.customTitleBarVisibility": "never",
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.showTabs": "none",
+    "editor.minimap.enabled": false,
+    "window.commandCenter": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.layoutControl.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.fontFamily": "'0xProto Nerd Font Mono', arial",
+    "workbench.sideBar.location": "right",
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none",
+    "window.menuBarVisibility": "hidden"
+}

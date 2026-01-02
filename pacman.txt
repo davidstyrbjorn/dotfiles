@@ -6,3 +6,4 @@ ttf-0xproto-nerd
 wofi
 wf-recorder
 wl-clipboard
+code
