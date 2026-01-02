@@ -49,4 +49,9 @@ for dir in "$DOTFILES_DIR/config/"*; do
   fi
 done
 
+# --- Code - OSS settings ---
+mkdir -p "$HOME/.config/Code - OSS/User"
+ln -sf "~/dotfiles/config/code-oss/User/settings.json" \
+  "$HOME/.config/Code - OSS/User/settings.json"
+
 echo "==> Done"
