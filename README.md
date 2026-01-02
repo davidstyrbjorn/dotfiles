@@ -11,3 +11,5 @@
 
 #### Missing
 Install script
+
+![alt text](https://github.com/davidstyrbjorn/dotfiles/blob/main/screenshots/screen1)
